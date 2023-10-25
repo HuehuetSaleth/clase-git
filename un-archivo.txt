@@ -1,3 +1,5 @@
 <h1>¡Hola</h1>
 
 -- Mi página no sirve! Algo se rompió!
+Tema 1. Intro a la web
+Tema 2. Terminal Git y Github
